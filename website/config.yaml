@@ -51,13 +51,11 @@ params:
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
     - name: Java
-      percentage: 100
     - name: JakartaEE
-      percentage: 100
     - name: Docker
-      percentage: 100
     - name: BPMN/ DMN
-      percentage: 100
+    - name: microservices architecture
+    - name: RESTful webservice
 
   # Experience
   disable_experience: false
