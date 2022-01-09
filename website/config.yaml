@@ -52,17 +52,17 @@ params:
   skills:
     - name: Java
       disable_percentage: true
-      percentage: 100
+      percentage: 95
     - name: JakartaEE
-      percentage: 100
+      percentage: 95
     - name: Docker
-      percentage: 100
+      percentage: 95
     - name: BPMN/ DMN
-      percentage: 100
+      percentage: 95
     - name: Microservices Architecture
-      percentage: 100
+      percentage: 95
     - name: RESTful Webservices
-      percentage: 100
+      percentage: 95
 
   # Experience
   disable_experience: false
