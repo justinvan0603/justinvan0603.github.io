@@ -51,67 +51,65 @@ params:
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
     - name: Java
+      disable_percentage: true
+      percentage: 100
     - name: JakartaEE
+      percentage: 100
     - name: Docker
+      percentage: 100
     - name: BPMN/ DMN
-    - name: microservices architecture
-    - name: RESTful webservice
+      percentage: 100
+    - name: Microservices Architecture
+      percentage: 100
+    - name: RESTful Webservices
+      percentage: 100
 
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
-      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
+    - company: "tech11 GmbH"
+      id: "dev"
       role: "Software developer"
-      startdate: Feb 2021
+      startdate: Nov 2020
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+        - point: Backend software developer.
+        - point: Developing insurance platform and customizing features for clients in projects.
+    - company: "tech11 GmbH"
+      id: "junior-dev"
+      role: "Junior software developer"
+      startdate: Oct 2019
+      enddate: Oct 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+        - point: Developing insurance platform.
+    - company: "GSOFT Co Ltd."
+      id: "gsoft-dev"
+      role: "Software developer"
+      startdate: Feb 2017
+      enddate: Dec 2017
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-
+        - point: Working as .Net developer.
+        
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
+    - degree: "Master of Science"
+      branch: "International Software Systems Science"
+      university: "Otto-Friedrich-Universität Bamberg"
+      startedyear: "2018"
+      graduation: "2020"
+    - degree: "Bachelor of Engineering"
+      branch: "Software Technology"
+      university: "University of information technology - VNUHCM"
       startedyear: "2013"
       graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
 
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
-      img: /images/project.jpg
-      githublink: "https://github.com/"
-      featuredlink: "/"
-      description: "Description of project"
+    - name: "Nexsurance"
+      img: ./images/project.jpg
+      description: "Customize insurance platform, business processes, and integrate with B2C Channel."
 
   # Achievements
   disable_achievements: false
@@ -134,12 +132,12 @@ params:
   # Contact
   disable_contact: false
   contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  email: "thangvtq@gmail.com"
 
   # Footer
   socialiconfooter: true
   recentposts: true
 
   # Blog
-  showdescription: false
-  tweet: true
+  showdescription: true
+  tweet: false
