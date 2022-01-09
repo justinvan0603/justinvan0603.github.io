@@ -47,7 +47,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I'm Thang. I'm a Software Developer. My job is about Backend development with JakartaEE and Microservices Architecture. Besides sticking to the notebook, I also love taking landscape photos. Thanks for visiting my little page, where I share some of my stuffs."
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
     - name: Java
