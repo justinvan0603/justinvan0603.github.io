@@ -110,6 +110,9 @@ params:
     - name: "Nexsurance"
       img: ./images/project.jpg
       description: "Customize insurance platform, business processes, and integrate with B2C Channel."
+    - name: "Notification plugin for Assets Management System"
+      img: ./images/project.jpg
+      description: "Implement data change notification plugin."
 
   # Achievements
   disable_achievements: false
