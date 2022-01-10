@@ -47,7 +47,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Thang. I'm a Software Developer. My job is about Backend development with JakartaEE and Microservices Architecture. Besides sticking to the notebook, I also love taking landscape photos. Thanks for visiting my little page, where I share some of my stuffs."
+  descripe_l1_person: "Hi, I'm Thang. I'm a Software Developer. I am currently living and working in Germany. My job is about Backend development with JakartaEE and Microservices Architecture and developing Core Insurance Platform. Besides sticking to the notebook, I also love taking landscape photos. Thanks for visiting my little page, where I share some of my stuffs."
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
     - name: Java
@@ -117,19 +117,17 @@ params:
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Master graduation with rank "sehr gut mit Auszeichnung"
+      description: Graduated Master's study with 1,2/1,0 (German score system).
       img: /images/achiv.jpg
-      url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Excellence result Master's thesis 1,0/1,0
+      description: Topic "How to monitor Microservices Architectures - A practical case study"
       img: /images/achiv.jpg
-      # url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: High academic result student 2017
+      description: Scholarship awarded by Fossil Vietnam.
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: High academic result student 2014
+      description: Scholarship awarded by MISFIT.
       img: /images/achiv.jpg
 
   # Contact
