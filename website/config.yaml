@@ -21,7 +21,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: "/images/fav-microservices.png"
+  favicon: "/images/fav-dev.png"
   description: "Some stuffs I would like to share..."
 
   # Navbar Menus
