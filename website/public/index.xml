@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thang Van&#39;s blog</title>
-    <link>https://thangvan.dev/</link>
+    <link>https://hugo-profile.netlify.app/</link>
     <description>Recent content on Thang Van&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thangvan.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
