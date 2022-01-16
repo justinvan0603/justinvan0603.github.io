@@ -23,3 +23,7 @@ So I started making my hand dirty on that during holidays time and then BAMB! It
 So I came up with an idea for this page is to introduce a bit about my professional skills, some technical topics that I find them interesting and to really "save" them into my head by sharing. Sometimes, I have thoughts about career path, things that I experienced, and some life and workplace lessons that I would like to share first for reminding myself and then share to the world and with a bit of luck that might help you one day.
 
 So long story short, I am glad that you visit my little page and enjoy a good read. Thank you and happy coding or...anything you like to ;)!
+
+Best regards,
+
+Thang
