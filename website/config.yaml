@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://thangvan.dev"
 languageCode: "en-us"
 title: "Thang Van's blog"
 theme: "./.."
