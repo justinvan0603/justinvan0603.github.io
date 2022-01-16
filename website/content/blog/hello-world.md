@@ -20,4 +20,6 @@ My name is Thang I come from Vietnam, I have been working as Software Developer 
 For long time, I have been thinking of making a blog page where I can share a bit about myself and also a few interesting things that I experience during my working or some of my thoughts.
 So I started making my hand dirty on that during holidays time and then BAMB! It's there now.
 
-So, my idea for this page is to introduce a bit about my professional skills, some technical topics that I find them interesting and to really "save" them into my head by sharing. Moreover, 
+So I came up with an idea for this page is to introduce a bit about my professional skills, some technical topics that I find them interesting and to really "save" them into my head by sharing. Sometimes, I have thoughts about career path, things that I experienced, and some life and workplace lessons that I would like to share first for reminding myself and then share to the world and with a bit of luck that might help you one day.
+
+So long story short, I am glad that you visit my little page and enjoy a good read. Thank you and happy coding or...anything you like to ;)!
