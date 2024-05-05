@@ -74,7 +74,7 @@ params:
   disable_experience: false
   experience:
     - company: "tech11 GmbH"
-      id: "sol-architect"
+      id: "people-manager"
       role: "People Manager"
       startdate: Jun 2022
       enddate: present
