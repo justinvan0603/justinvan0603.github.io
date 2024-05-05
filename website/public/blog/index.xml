@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Thang Van&#39;s blog</title>
+    <link>https://thangvan.dev/blog/</link>
+    <description>Recent content in Blogs on Thang Van&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jan 2022 22:53:58 +0530</lastBuildDate>
+    <atom:link href="https://thangvan.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A few words</title>
+      <link>https://thangvan.dev/blog/hello-world/</link>
+      <pubDate>Sun, 16 Jan 2022 22:53:58 +0530</pubDate>
+      <guid>https://thangvan.dev/blog/hello-world/</guid>
+      <description>Welcome to my blog Hello World,&#xA;My name is Thang I come from Vietnam, I have been working as Software Developer for a Core Insurance Provider in Germany. At first, I move to Germany for pursuing my Master&amp;rsquo;s degree and earning more hands-on experience. Luckily, I had a chance to start as an Intern at tech11 GmbH - a Core Insurance Platform Provider located in Würzburg city, where I really have a chance to apply what I have learned to realworld problems and I also have a playground to learn and to grow there.</description>
+    </item>
+  </channel>
+</rss>

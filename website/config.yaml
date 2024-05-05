@@ -34,7 +34,7 @@ params:
   profile_image: "/images/avatar.jpeg"
   name: "Truong Quoc Thang Van"
   namecolor: ffc107
-  profession: "Software Developer"
+  profession: "Solutions Architect / People Manager"
   github: "https://github.com/justinvan0603"
   linkedin: "https://www.linkedin.com/in/thangvan/"
   instagram: "https://www.instagram.com/thangvtq/"
@@ -47,7 +47,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Thang. I'm a Software Developer. I am currently living and working in Germany. My job is about Backend development with JakartaEE and Microservices Architecture and developing Core Insurance Platform. Besides sticking to the notebook, I also love taking landscape photos. Thanks for visiting my little page, where I share some of my stuffs."
+  descripe_l1_person: "Hi, I'm Thang. I graduated Software Engineer and I have been working as a Solutions Architect and People Manager at tech11. I am currently living and working in Germany. My job is about Backend development with JakartaEE and Microservices Architecture and developing Core Insurance Platform. Besides sticking to the notebook, I also love taking landscape photos. Thanks for visiting my little page, where I share some of my stuffs."
   descripe_l2_person: "You can find my works [here](#projects)"
   skills:
     - name: Java
@@ -63,10 +63,32 @@ params:
       percentage: 95
     - name: RESTful Webservices
       percentage: 95
+    - name: Solutions Architect
+      percentage: 95
+    - name: DevOps
+      percentage: 95
+    - name: People management and Leadership
+      percentage: 95
 
   # Experience
   disable_experience: false
   experience:
+    - company: "tech11 GmbH"
+      id: "sol-architect"
+      role: "People Manager"
+      startdate: Jun 2022
+      enddate: present
+      featuredpoints:
+        - point: Currently managing 5 Backend Developers.
+        - point: Career Development, Personal Development, Coaching, Performance Evaluation, and Recruiting.
+    - company: "tech11 GmbH"
+      id: "sol-architect"
+      role: "Solutions Architect"
+      startdate: Oct 2021
+      enddate: present
+      featuredpoints:
+        - point: Solutions Architect in Delivery project.
+        - point: Analyze technical perspectives of requirements, analyze gaps, provide technical solutions for implementations.
     - company: "tech11 GmbH"
       id: "dev"
       role: "Software developer"
@@ -107,6 +129,9 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "ERGO"
+      img: ./images/project.jpg
+      description: "It's huge and multiple episodes of digitalization, digital transformation. ;)"
     - name: "Nexsurance"
       img: ./images/project.jpg
       description: "Customize insurance platform, business processes, and integrate with B2C Channel."

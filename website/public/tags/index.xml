@@ -4,7 +4,16 @@
     <title>Tags on Thang Van&#39;s blog</title>
     <link>https://thangvan.dev/tags/</link>
     <description>Recent content in Tags on Thang Van&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thangvan.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jan 2022 22:53:58 +0530</lastBuildDate>
+    <atom:link href="https://thangvan.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Few Words</title>
+      <link>https://thangvan.dev/tags/a-few-words/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thangvan.dev/tags/a-few-words/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

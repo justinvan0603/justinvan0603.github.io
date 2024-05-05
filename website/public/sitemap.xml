@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thangvan.dev/categories/</loc>
+    <loc>https://thangvan.dev/blog/hello-world/</loc>
+    <lastmod>2022-01-16T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://thangvan.dev/tags/a-few-words/</loc>
+    <lastmod>2022-01-16T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://thangvan.dev/blog/</loc>
+    <lastmod>2022-01-16T22:53:58+05:30</lastmod>
   </url><url>
     <loc>https://thangvan.dev/tags/</loc>
+    <lastmod>2022-01-16T22:53:58+05:30</lastmod>
   </url><url>
     <loc>https://thangvan.dev/</loc>
+    <lastmod>2022-01-16T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://thangvan.dev/categories/</loc>
   </url>
 </urlset>
